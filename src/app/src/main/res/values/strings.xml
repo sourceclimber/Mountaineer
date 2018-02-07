@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Mountaineer</string>
+
+    <string name="tourActivityMenuSettings">Settings</string>
+    <string name="tourActivityMenuStop">Stop</string>
+    <string name="tourActivityMenuDoNotSave">Don\'t Save</string>
+
+    <string name="preference_gender_title">Gender</string>
+    <string name="preference_gender_key">preferenceGender</string>
+    <string name="preference_gender_default">x</string>
+
+    <string name="preference_age_title">Age</string>
+    <string name="preference_age_key">preferenceAge</string>
+    <string name="preference_age_default">0</string>
+
+    <string name="preference_height_title">Height (cm)</string>
+    <string name="preference_height_key">preferenceHeight</string>
+    <string name="preference_height_default">0</string>
+
+    <string name="preference_mass_title">Body Mass (kg)</string>
+    <string name="preference_mass_key">preferenceBodyMass</string>
+    <string name="preference_mass_default">0</string>
+
+    <string name="preference_par_title">Physical Activity Rating (PA-R)</string>
+    <string name="preference_par_key">preferencePar</string>
+    <string name="preference_par_default">0</string>
+
+    <string name="preference_stridelength_title">Stride Length (cm)</string>
+    <string name="preference_stridelength_key">preferenceStrideLength</string>
+    <string name="preference_stridelength_default">0</string>
+
+    <string name="preference_restinghr_title">Resting Heart Rate</string>
+    <string name="preference_restinghr_key">preferenceRestingHeartRate</string>
+    <string name="preference_restinghr_default">0</string>
+
+    <string name="preference_simulate_title">Simulate Sensor Data</string>
+    <string name="preference_simulate_key">preferenceSimulateSensorData</string>
+    <string name="preference_simulate_default">false</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
